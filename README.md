@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 FusionCMS Localization
 ======================
 
@@ -29,3 +30,11 @@ Submit a pull request with your translations **OR** email the language as a .zip
 
 - Please name the folder the name of your language - in your language! For instance, "swedish" in swedish is "svenska".
 - Make sure the file encoding is UTF-8
+=======
+FusionCMS-Localization
+======================
+
+Language support for FusionCMS
+
+###This repository has moved to [jesperlindstrom/FusionCMS-Localization](https://github.com/jesperlindstrom/FusionCMS-Localization)
+>>>>>>> 74a142edbf82059ae50a14e7b018d3f588689452
